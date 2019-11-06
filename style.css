@@ -158,6 +158,16 @@ img {
   overflow: hidden;
 }
 
+/* Text Styles */
+.text-xl {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.text-lg {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
 /* Buttons */
 .btn {
   display: inline-block;
